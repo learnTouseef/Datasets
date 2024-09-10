@@ -4,8 +4,10 @@
     https://www.kaggle.com/learn
     https://github.com/learnTouseef/Datasets
 
-2. mySQL
+2. mySQL :
+    https://www.geeksforgeeks.org/mysql-tutorial/?ref=lbp
     https://www.javatpoint.com/mysql-tutorial
 
-3. Py
+3. Py :
+
     
